@@ -5,3 +5,5 @@ Here I am going to document everything I think you should know about this projec
 The first thing I am going to do is downloading the europeans' agricoltural data and then make a framework to simulate a datawarehouse and some events. 
 
 0th Step: Downloading some data
+
+The goal of the research is also to estimate and predict if an household in some given area could make its ends if they work in an agricultural context. 
